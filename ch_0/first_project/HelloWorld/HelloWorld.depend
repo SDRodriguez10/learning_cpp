@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741628944 source:/home/sebastian/Desktop/learning_cpp/ch_0/first_project/HelloWorld/main.cpp
+	<iostream>
+	<limits>
+
