@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1741633341 source:/home/sebastian/Desktop/learning_cpp/ch_0/second_project/my_class.cpp
+	"my_class.h"
+	<iostream>
+
+1741633500 /home/sebastian/Desktop/learning_cpp/ch_0/second_project/my_class.h
+
+1741633598 source:/home/sebastian/Desktop/learning_cpp/ch_0/second_project/your_class.cpp
+	"my_class.h"
+	<iostream>
+
+1741634433 source:/home/sebastian/Desktop/learning_cpp/ch_0/second_project/main.cpp
+	<iostream>
+	"my_class.h"
+	"math_constants.h"
+
+1741634496 /home/sebastian/Desktop/learning_cpp/ch_0/second_project/math_constants.h
+

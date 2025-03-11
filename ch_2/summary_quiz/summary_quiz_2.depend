@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1741667920 source:/home/sebastian/Desktop/learning_cpp/ch_2/summary_quiz/main.cpp
+	"io.h"
+
+1741668222 /home/sebastian/Desktop/learning_cpp/ch_2/summary_quiz/io.h
+
+1741668348 source:/home/sebastian/Desktop/learning_cpp/ch_2/summary_quiz/new.cpp
+	"io.h"
+	<iostream>
+

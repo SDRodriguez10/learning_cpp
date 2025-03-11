@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="secondProject" />
+		<Option title="summary_quiz_2" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/secondProject" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/summary_quiz_2" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/secondProject" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/summary_quiz_2" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -32,11 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="io.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="math_constants.h" />
-		<Unit filename="my_class.cpp" />
-		<Unit filename="my_class.h" />
-		<Unit filename="your_class.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
